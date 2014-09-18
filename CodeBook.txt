@@ -1,3 +1,5 @@
+Taken from the "feature_list.txt" file provided with the data
+
 Feature Selection 
 =================
 
